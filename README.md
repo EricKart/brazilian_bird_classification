@@ -11,3 +11,4 @@ There are three python-files first is data_processing.py second is train.py and 
 
 you can fork this repo and the dataset used is Brazilian-bird data.
 Do star this repo if you like.
+![image](https://github.com/EricKart/brazilian_bird_classification/assets/75946757/16e40c91-dcf2-4c19-b395-3b9af8159d55)
